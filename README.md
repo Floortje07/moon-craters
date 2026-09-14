@@ -23,9 +23,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 31 aug - Kickoff
 
 !Checkout vragen!
-Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-Een source hosting platform is een plek waar je al je code/ projecten kan organiseren. Ik heb voor Github gekozen, aangezien ik al een account had en alles overzichtelijk en makkelijk te vinden is.
-Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-Ik heb voor de domeinnaam "moonfim" gekozen, omdat de maansteen mijn geboortesteen is en F.I.M. zijn mijn initialen. Ik heb mijn domeinnaam gekoppeld via GitHub pages.
-Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-Ik maak aanpassingen aan mijn code in VSCodium, na het maken van aanpassingen sync ik deze in de changes.
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+   Een source hosting platform is een plek waar je al je code/ projecten kan organiseren. Ik heb voor Github gekozen, aangezien ik al een
+   account had en alles overzichtelijk en makkelijk te vinden is.
+3. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+   Ik heb voor de domeinnaam "moonfim" gekozen, omdat de maansteen mijn geboortesteen is en F.I.M. zijn mijn initialen. Ik heb mijn
+   domeinnaam gekoppeld via GitHub pages.
+4. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+   Ik maak aanpassingen aan mijn code in VSCodium, na het maken van aanpassingen sync ik deze in de changes.
