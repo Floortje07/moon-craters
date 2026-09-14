@@ -4,6 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 sept
+
+!Checkout vragen!
+1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+   Je website wordt lelijk als je HTML structuur niet klopt en als je geen CSS gebruikt. Je kan je website 'mooier' maken door bijvoorbeeld
+   kleuren toe te voegen of grids toe te voegen.
+2. Vertel welke volgende stap je neemt om je website responsive te maken.
+   Voor mijn volgende stap naar responsiveness ga ik de dark-/ lightmode maken en ik moet ervoor zorgen dat mijn nieuwe lettertype ook
+   werkt op mijn telefoon, niet alleen op mijn laptop.
+3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+   Op dit moment kan ik daar nog niks over zeggen, omdat ik nog niet ver genoeg ben in mijn code dat ik iets Webbys toe te voegen.
+
+
 ### 7 sept
 
 !Checkout vragen!:
@@ -16,10 +29,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en      mag veranderen in de loop van het programma.
    Mijn DG gaat over **kikkers**. Het kan gaan over kikkervisjes, predatoren, verschillen tussen kikkers en padden, giftige en niet giftige    kikkers, etc.
 
-### 3 sept - [Workshop]
 
-[...]
+### 5 sept
+!Checkout vragen!
+1. Welke feedback heb je gehad?
+   Maak het niet te moeilijk. Hou je HTML simpel, maar maak het wel zodat je site netjes is.
 
+
+### 2 sept 
+
+!Checkout vragen!
+1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
+   1. Vanuit een eerste stap (een sfeerwoord) ga je op zoek naar direct visueel beeld (hetgeen wat direct bij je opkomt) & je benoemt
+      kenmerken uit deze beelden
+   2. in de tweede stap ga je met deze kenmerken naar een abstracte vertaling (vormen, kleuren en typografie) zoeken.
+   3. In de derde stap formuleer je uitgangspunten om mee te schetsen. ​​​
+2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+   Mijn DG gaat over kikkers, hun gedrag, het verschil tussen padden en kikkers, giftige kikkers, veel voorkomende kikkers, zeldzame
+   kikkers, etc. Ik ga dit laten overkomen a.d.h.v. veel afbeeldingen en contextuele tekst.
+   Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+3. -
+
+   
 ### 31 aug - Kickoff
 
 !Checkout vragen!
