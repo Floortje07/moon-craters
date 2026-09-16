@@ -15,8 +15,14 @@ body {
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
-  background-image: url("../BG-new.png");
+  background-image: url("../BG.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+img,
+svg,
+video {
+  grid-column: 1;
 }
