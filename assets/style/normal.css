@@ -2,28 +2,46 @@ html {
   color-scheme: light dark;
 }
 
+header ul {
+  grid-column-start: 2;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  color: #022d32;
+}
+
+h1 {
+  font-size: 5em;
+}
+
 h1,
 h2,
 h3 {
-  font-family: "Rock Salt", sans-serif;
+  font-family: "Luckiest Guy", sans-serif;
+  color: light-dark(#44b1bd, #022d32);
 }
 
 main {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 1em;
+  font-family: "Rock Salt", sans-serif;
+  color: light-dark(#44b1bd, #022d32);
+
+  @media (width > 26em) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
-  background-image: light url("../BG.png");
-  background-image: dark url(../BGdark.png);
+  background-image: light-dark(url("../BG.png"), url("../BGdark.png"));
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+article {
+  grid-column: 1/-1;
 }
 
 img,
@@ -31,6 +49,6 @@ svg,
 video {
   width: 100%;
   max-width: 500px;
-  grid-column: 1/ -1;
-  position: center;
+  grid-template-columns: 1/ -1;
+  align-self: center;
 }
