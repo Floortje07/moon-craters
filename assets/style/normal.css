@@ -18,8 +18,9 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
+  color-scheme: light dark;
   background-image: light url("../BG.png");
-  background-image: dark url(../BG\ DARK.png);
+  background-image: dark url(../BGdark.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
