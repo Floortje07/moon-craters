@@ -5,6 +5,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 16 sept
+
+!Checkout vragen!
 1. Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
    1. Visuele Hierarchy: dat iets boven of groter verbeeld is dan de rest van de elementen, je ogen vallen er meer op en zo kan je de volgorde zien.
    2. Gestalt: wanneer verschillende vormen of elementen op een bepaalde manier samen staan, zodat je er in je hoofd een nieuwe vorm van maakt.
