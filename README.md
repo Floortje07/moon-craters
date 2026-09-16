@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 16 sept
+1. Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+   1. Visuele Hierarchy: dat iets boven of groter verbeeld is dan de rest van de elementen, je ogen vallen er meer op en zo kan je de volgorde zien.
+   2. Gestalt: wanneer verschillende vormen of elementen op een bepaalde manier samen staan, zodat je er in je hoofd een nieuwe vorm van maakt.
+   3. Scale: dingen die groter afgebeeld staan, waardoor het meer opvalt en je ogen er naar toe gaan.
+2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+   Omdat je via een grid het makkelijkst posities neer kan zetten waar ze horen, en je niet vast zit aan een bestaande vorm.
+3. Welk principe neem je mee in een laatste iteratie van je ontwerp? 
+   Ik neem vooral balans vooral visuele hierarchy mee, omdat ik het zelf fijn vind als een site die ik bezoek dat heeft.
+
 ### 14 sept
 
 !Checkout vragen!
