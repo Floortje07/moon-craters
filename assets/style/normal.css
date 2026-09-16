@@ -1,3 +1,7 @@
+html {
+  color-scheme: light dark;
+}
+
 h1,
 h2,
 h3 {
@@ -14,8 +18,8 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
   color: CanvasText;
-  color-scheme: light dark;
-  background-image: url("../BG.png");
+  background-image: light url("../BG.png");
+  background-image: dark url(../BG\ DARK.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,6 +28,8 @@ body {
 img,
 svg,
 video {
-  grid-column: 1;
+  width: 100%;
+  max-width: 500px;
+  grid-column: 1/ -1;
   position: center;
 }
