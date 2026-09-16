@@ -25,4 +25,5 @@ img,
 svg,
 video {
   grid-column: 1;
+  position: center;
 }
