@@ -1,23 +1,13 @@
-/* HIER KOMT JOUW CSS */
-@font-face {
-  luckiest-guy-regular {
-    font-family: "Luckiest Guy", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-}
-@font-face {
-  rock-salt-regular {
-    font-family: "Rock Salt", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-}
-
 h1,
 h2,
 h3 {
-  font-family: "Rock-Salt", sans-serif;
+  font-family: "Rock Salt", sans-serif;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
 }
 
 body {
@@ -25,7 +15,7 @@ body {
   background-color: Canvas;
   color: CanvasText;
   color-scheme: light dark;
-  background-image: url("../BG.png");
+  background-image: url("../BG-new.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
