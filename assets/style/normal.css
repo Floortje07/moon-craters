@@ -4,7 +4,7 @@ html {
 
 header ul {
   grid-column-start: 2;
-  position: fixed;
+  position: absolute;
   top: 20px;
   right: 20px;
   color: #022d32;
