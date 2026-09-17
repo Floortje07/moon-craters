@@ -8,6 +8,7 @@ header ul {
   top: 20px;
   right: 20px;
   color: #022d32;
+  cursor: pointer;
 }
 
 a:hover {
@@ -28,7 +29,10 @@ a:focus {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2.5em;
+  @media (width > 34em) {
+    font-size: 4em;
+  }
 }
 
 h1,
@@ -40,7 +44,7 @@ h3 {
 
 main {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 1em;
   font-family: "Rock Salt", sans-serif;
   color: light-dark(#44b1bd, #022d32);
@@ -68,4 +72,5 @@ video {
   max-width: 500px;
   grid-template-columns: 1/ -1;
   align-self: center;
+  justify-self: center;
 }
