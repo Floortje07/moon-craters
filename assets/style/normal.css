@@ -7,7 +7,7 @@ header ul {
   position: absolute;
   top: 20px;
   right: 20px;
-  color: #022d32;
+  color: #021c1f;
   cursor: pointer;
 }
 
@@ -39,7 +39,11 @@ h1,
 h2,
 h3 {
   font-family: "Luckiest Guy", sans-serif;
-  color: light-dark(#44b1bd, #022d32);
+  color: light-dark(#44b1bd, #021c1f);
+}
+
+p {
+  grid-column: 1/-1;
 }
 
 main {
@@ -47,7 +51,7 @@ main {
   grid-template-columns: 1fr;
   gap: 1em;
   font-family: "Rock Salt", sans-serif;
-  color: light-dark(#44b1bd, #022d32);
+  color: light-dark(#44b1bd, #021c1f);
 
   @media (width > 35em) {
     grid-template-columns: 1fr 1fr;
@@ -73,4 +77,5 @@ video {
   grid-template-columns: 1/ -1;
   align-self: center;
   justify-self: center;
+  display: block;
 }
