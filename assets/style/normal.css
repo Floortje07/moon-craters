@@ -49,7 +49,7 @@ main {
   font-family: "Rock Salt", sans-serif;
   color: light-dark(#44b1bd, #022d32);
 
-  @media (width > 20em) {
+  @media (width > 35em) {
     grid-template-columns: 1fr 1fr;
   }
 }
