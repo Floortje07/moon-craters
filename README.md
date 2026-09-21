@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept
+!Checkout vragen!
+Wat zijn HTML landmark role elements?
+Het zijn elementen, die de grootte van de verschillende content bepalen, bijv. <header>, <main> of <body>.
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Heading elementen worden gebruikt voor de kopjes van de artikelen. <h1> als titel van de pagina en <h2> voor de tussenkopjes (t/m <h6>) Het 'nesten' houdt in dat ze in de juiste volgorde worden gebruikt.
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Voor vandaag klikte ik altijd op "Reject all" als die optie er was, als die er niet was nam ik de tweede snelste optie ("Allow all"). Na vandaag ga ik zeker niet meer op Allow all klikken.
+
+
 ### 18 sept
 Feedback na sprint 1:
 - Mijn Learning Log goed bijhouden (een manier vinden om de motivatie om te beginnen te vinden)
