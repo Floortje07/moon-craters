@@ -4,17 +4,45 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 sept
+Feedback na sprint 1:
+- Mijn Learning Log goed bijhouden (een manier vinden om de motivatie om te beginnen te vinden)
+- Het contrast van mijn achtergrond aanpassen
+- De fonts niet via link, maar via @fontface
+- Meer details toevoegen
+- De nav in mijn code netter maken
+- Een max-width toevoegen aan mijn text en afbeeldingen
+
+!Checkout vragen!
+- Competenties:
+1. Oriënteren & Begrijpen
+- Begrijp het doel van de opdracht.
+- Weet welke technieken je gebruikt, vooral HTML en CSS.
+- Houd rekening met randvoorwaarden zoals tijd, kennis, toegankelijkheid en privacy.
+- HTML gebruik je voor structuur, content en interactie.
+- CSS gebruik je voor vormgeving, duidelijkheid, animaties en prettige interactie.
+- Je leert de opdracht niet alleen door onderzoek, maar ook door te maken en te experimenteren.
+2. Verbeelden & Conceptualiseren
+
+3. Prototypen & Uitwerken
+
+4. Evalueren
+
+
 ### 16 sept
 
 !Checkout vragen!
 1. Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
-   1. Visuele Hierarchy: dat iets boven of groter verbeeld is dan de rest van de elementen, je ogen vallen er meer op en zo kan je de volgorde zien.
-   2. Gestalt: wanneer verschillende vormen of elementen op een bepaalde manier samen staan, zodat je er in je hoofd een nieuwe vorm van maakt.
+   1. Visuele Hierarchy: dat iets boven of groter verbeeld is dan de rest van de elementen, je ogen vallen er meer op en zo kan je de
+      volgorde zien.
+   2. Gestalt: wanneer verschillende vormen of elementen op een bepaalde manier samen staan, zodat je er in je hoofd een nieuwe vorm van
+      maakt.
    3. Scale: dingen die groter afgebeeld staan, waardoor het meer opvalt en je ogen er naar toe gaan.
 2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
    Omdat je via een grid het makkelijkst posities neer kan zetten waar ze horen, en je niet vast zit aan een bestaande vorm.
 3. Welk principe neem je mee in een laatste iteratie van je ontwerp? 
    Ik neem vooral balans vooral visuele hierarchy mee, omdat ik het zelf fijn vind als een site die ik bezoek dat heeft.
+
 
 ### 14 sept
 
