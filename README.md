@@ -4,14 +4,33 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 23 sept
+!Checkout vragen!
+1. Wat is een wireflow en wat heb je er aan?
+   Een wireflow zijn meerdere wireframes (schetsen van de frames van je website) waarin je de stappen kan laten zien die je ondergaat
+   tijdens het gebruiken van je website.
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+   1. Visual or wording tricks: misleidende woorden gebruiken of keuzes waarvan de websites niet willen dat je die kiest moeilijk te vinden
+      maken.
+   2. Nagging: het blijven herhalen van bepaalde dingen (meestal betaalde opties van dezelfde site) totdat je er uiteindelijk voor kiest.
+   3. Sneaking of preselection: wanneer je bijvoorbeeld iets online wilt bestellen en er automatisch iets extra's wordt toegevoegd aan je
+      winkelmand zonder jouw toestemming.
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+   Het moet niet te lang zijn en er moet duidelijk in worden weergegeven welke gegevens worden gebruikt (waarvoor en door wie), de
+   gebruiker van mijn website moet ook altijd zijn/ haar keuzes kunnen wijzigen.
+
+
 ### 21 sept
 !Checkout vragen!
-Wat zijn HTML landmark role elements?
-Het zijn elementen, die de grootte van de verschillende content bepalen, bijv. <header>, <main> of <body>.
-Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen worden gebruikt voor de kopjes van de artikelen. <h1> als titel van de pagina en <h2> voor de tussenkopjes (t/m <h6>) Het 'nesten' houdt in dat ze in de juiste volgorde worden gebruikt.
-Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-Voor vandaag klikte ik altijd op "Reject all" als die optie er was, als die er niet was nam ik de tweede snelste optie ("Allow all"). Na vandaag ga ik zeker niet meer op Allow all klikken.
+1. Wat zijn HTML landmark role elements?
+   Het zijn elementen, die de grootte van de verschillende content bepalen, bijv. <header>, <main> of <body>.
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+   Heading elementen worden gebruikt voor de kopjes van de artikelen. <h1> als titel van de pagina en <h2> voor de tussenkopjes (t/m <h6>)
+   Het 'nesten' houdt in dat ze in de juiste volgorde worden gebruikt.
+3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+   Voor vandaag klikte ik altijd op "Reject all" als die optie er was, als die er niet was nam ik de tweede snelste optie ("Allow all"). Na
+   vandaag ga ik zeker niet meer op Allow all klikken.
 
 
 ### 18 sept
