@@ -15,6 +15,21 @@ html {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Oswald";
+  src: url("../fonts/Oswald-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+dialog {
+  max-width: 30em;
+  background-color: light-dark(#4c8e5a, #1a331f);
+  font-family: "Oswald", Impact;
+  color: light-dark(black, white);
+  corner-shape: scoop;
+}
+
 header ul {
   grid-column-start: 2;
   position: absolute;
@@ -22,6 +37,7 @@ header ul {
   right: 20px;
   color: #021c1f;
   cursor: pointer;
+  list-style: none;
 }
 
 a:hover {
@@ -38,20 +54,23 @@ a:visited {
 
 a:focus {
   outline: 0.1em dashed black;
-  color: black;
+  color: red;
 }
 
 h1 {
+  font-family: "Luckiest Guy", serif;
   font-size: 2.5em;
   @media (width > 34em) {
-    font-size: 3.6em;
+    font-size: 3.2em;
   }
 }
 
-h1,
 h2,
 h3 {
   font-family: "Luckiest Guy", serif;
+  @media (width < 34em) {
+    font-size: 1.6em;
+  }
 }
 
 p {
@@ -63,7 +82,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1em;
-  color: light-dark(#44b1bd, white);
+  color: light-dark(black, white);
 
   @media (width > 35em) {
     grid-template-columns: 1fr 1fr;
