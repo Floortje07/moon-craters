@@ -23,11 +23,29 @@ html {
 }
 
 dialog {
-  max-width: 30em;
+  padding: 0.2%;
+  max-width: fit-content;
+  position: fixed;
   background-color: light-dark(#4c8e5a, #1a331f);
   font-family: "Oswald", Impact;
   color: light-dark(black, white);
-  corner-shape: scoop;
+  border-radius: 0.5em;
+  border-color: light-dark(#1a331f, #4c8e5a);
+}
+
+button {
+  padding: 0.2em;
+  max-width: fit-content;
+  grid-column-start: 2;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  background-color: light-dark(#4c8e5a, #1a331f);
+  border-radius: 20em;
+  font-family: "Oswald", Impact;
+  color: light-dark(black, white);
+  border-color: light-dark(#1a331f, #4c8e5a);
 }
 
 header ul {
@@ -75,6 +93,7 @@ h3 {
 
 p {
   grid-column: 1/-1;
+  text-wrap: balance;
 }
 
 main {
