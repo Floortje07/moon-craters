@@ -24,7 +24,6 @@ html {
 
 dialog {
   padding: 0.2%;
-  max-width: fit-content;
   position: fixed;
   background-color: light-dark(#4c8e5a, #1a331f);
   font-family: "Oswald", Impact;
