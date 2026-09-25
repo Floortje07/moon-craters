@@ -1,3 +1,5 @@
+
+
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
@@ -122,6 +124,9 @@ Feedback na sprint 1:
 
    
 ### 31 aug - Kickoff
+We hebben vandaag onze domeinnaam gemaakt en aan onze GitHub gekoppeld:
+<img width="3024" height="4032" alt="IMG_1284" src="https://github.com/user-attachments/assets/d8e2bf7a-740a-4d17-8210-63c78fb47fdd" />
+
 
 !Checkout vragen!
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
