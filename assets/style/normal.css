@@ -24,7 +24,8 @@ html {
 
 dialog {
   padding: 0.2%;
-  position: fixed;
+  max-width: fit-content;
+  position: absolute;
   background-color: light-dark(#4c8e5a, #1a331f);
   font-family: "Oswald", Impact;
   color: light-dark(black, white);
@@ -36,7 +37,6 @@ button {
   padding: 0.2em;
   max-width: fit-content;
   grid-column-start: 2;
-  position: fixed;
   bottom: 20px;
   right: 20px;
   cursor: pointer;
@@ -45,6 +45,14 @@ button {
   font-family: "Oswald", Impact;
   color: light-dark(black, white);
   border-color: light-dark(#1a331f, #4c8e5a);
+}
+
+main > button {
+  position: fixed;
+}
+
+dialog button {
+  position: absolute;
 }
 
 header ul {
