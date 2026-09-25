@@ -31,6 +31,7 @@ dialog {
   color: light-dark(black, white);
   border-radius: 0.5em;
   border-color: light-dark(#1a331f, #4c8e5a);
+  overflow: hidden;
 }
 
 button {
@@ -53,6 +54,8 @@ main > button {
 
 dialog button {
   position: absolute;
+  background-color: light-dark(#1a331f, #4c8e5a);
+  border-color: light-dark(#4c8e5a, #1a331f);
 }
 
 header ul {
