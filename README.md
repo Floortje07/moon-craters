@@ -5,6 +5,20 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 28 sept
+!Checkout vragen!
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+   Vasilis vindt UX heel belangrijk, semantiek maakt hem niet zo uit.
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+   1. Visueel: blindheid
+   2. Cognitief: concentratie
+   3. Motorisch: parkinson 
+   4. Auditief: doofheid
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+   1. Via een lijst (control + option + U)
+   2. Met tab kan je de hele site navigeren
+   3. Met spatiebalk kan je elementen selecteren
+
 ### 25 sept
 !Checkout vragen?!
 Wat hebben we geleerd?
