@@ -10,7 +10,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent,
    outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
    - Kerning: letter spacing, bijvoorbeeld bepaalde letters dichterbij elkaar zetten zodat het harmonieus verloopt
-   - Tracking: word spacing, bijvoorbeeld bij een korte tekst maak je het compacter er bij een grote tekst maak je de word spacing groter
+   - Tracking: word spacing, bijvoorbeeld bij een korte tekst maak je de letters compacter
    - Leading: de verticale ruimte tussen de baselines van de regels tekst
    - Flush-left: de tekst wordt aligned aan de linkerkant
    - Flush-right: de tekst wordt aligned aan de rechterkant
