@@ -7,28 +7,33 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 5 okt
 !Checkout vragen!
-Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
-<li>
-   Kerning: letter spacing, bijvoorbeeld bepaalde letters dichterbij elkaar zetten zodat het harmonieus verloopt
-   Tracking: word spacing, bijvoorbeeld bij een korte tekst maak je het compacter er bij een grote tekst maak je de word spacing groter
-   Leading: de verticale ruimte tussen de baselines van de regels tekst
-   Flush-left: de tekst wordt aligned aan de linkerkant
-   Flush-right: de tekst wordt aligned aan de rechterkant
-   Centered: de tekst wordt aligned in het midden (ongeacht de lengte van de zinnen)
-   Justified: de tekst wordt gewarped zodat het de hele margin vult, de word- en letter spacing veranderd mee
-   Indent: duidt een nieuwe paragraaf aan door een kleine witruimte (1em) aan de linkerkant open te laten 
-   Outdent: duidt een nieuwe paragraaf aan door tekst die aan de linkerkant uitsteekt neer te zetten
-   Modular scale: een balans creëren door middel van custom properties
-   Movable type: 
-   Contrast of size: een element is groter of kleiner dan de rest
-   Contrast of color: een element is veller/ donkerder dan de rest
-   Contrast of space:
-   Contrast of weight:
-   Contrast of space/ form:
-   Spatial tension
-</li>
-Wat is jouw ideale regellengte (measure)? Leg uit waarom.
-Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent,
+   outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+   - Kerning: letter spacing, bijvoorbeeld bepaalde letters dichterbij elkaar zetten zodat het harmonieus verloopt
+   - Tracking: word spacing, bijvoorbeeld bij een korte tekst maak je het compacter er bij een grote tekst maak je de word spacing groter
+   - Leading: de verticale ruimte tussen de baselines van de regels tekst
+   - Flush-left: de tekst wordt aligned aan de linkerkant
+   - Flush-right: de tekst wordt aligned aan de rechterkant
+   - Centered: de tekst wordt aligned in het midden (ongeacht de lengte van de zinnen)
+   - Justified: de tekst wordt gewarped zodat het de hele margin vult, de word- en letter spacing veranderd mee
+   - Indent: duidt een nieuwe paragraaf aan door een kleine witruimte (1em) aan de linkerkant open te laten 
+   - Outdent: duidt een nieuwe paragraaf aan door tekst die aan de linkerkant uitsteekt neer te zetten
+   - Modular scale: een balans creëren door middel van custom properties
+   - Movable type: kleine blokjes die vroeger werden gebruikt om teksten te 'schrijven'
+   - Contrast of size: een element is groter of kleiner dan de rest
+   - Contrast of color: een element is veller/ donkerder dan de rest
+   - Contrast of space: een element staat verder van de rest af of meerdere elementen staan dichter op elkaar
+   - Contrast of weight: een element wordt zwaarder (bold) of lichter (dun) uitgebeeld
+   - Contrast of space/ form: een element wordt anders uitgebeeld, door middel van bijvoorbeeld font.
+   - Spatial tension: bijvoorbeeld het vermijden van het midden, het creëren van een gevoel van richting, het creëren van ongelijke vormen
+     of margins, het variëren in de grootte van witruimte, rekening houden met de z-as en letten op de randen.
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+   Ik ben het wel eens met de *1.5 van de fontgrootte, het zorgt automatisch voor visuele harmonie en het wordt niet te groot/ te klein.
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing,
+   lettersoorten), welke zou je dan gebruiken en waarom?
+   Ik zou voor lettersoorten kiezen, omdat je daarmee zoveel kan zeggen. Een lettertype met heel veel krulletjes en extraatjes straalt
+   bijvoorbeeld voor mij speelsheid uit en je hebt ook lettertypes die handgeschreven lijken en dat geeft voor mij een heel persoonlijke
+   feel.
 
 
 ### 28 sept
