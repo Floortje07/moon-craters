@@ -5,6 +5,32 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 5 okt
+!Checkout vragen!
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+<li>
+   Kerning: letter spacing, bijvoorbeeld bepaalde letters dichterbij elkaar zetten zodat het harmonieus verloopt
+   Tracking: word spacing, bijvoorbeeld bij een korte tekst maak je het compacter er bij een grote tekst maak je de word spacing groter
+   Leading: de verticale ruimte tussen de baselines van de regels tekst
+   Flush-left: de tekst wordt aligned aan de linkerkant
+   Flush-right: de tekst wordt aligned aan de rechterkant
+   Centered: de tekst wordt aligned in het midden (ongeacht de lengte van de zinnen)
+   Justified: de tekst wordt gewarped zodat het de hele margin vult, de word- en letter spacing veranderd mee
+   Indent: duidt een nieuwe paragraaf aan door een kleine witruimte (1em) aan de linkerkant open te laten 
+   Outdent: duidt een nieuwe paragraaf aan door tekst die aan de linkerkant uitsteekt neer te zetten
+   Modular scale: een balans creëren door middel van custom properties
+   Movable type: 
+   Contrast of size: een element is groter of kleiner dan de rest
+   Contrast of color: een element is veller/ donkerder dan de rest
+   Contrast of space:
+   Contrast of weight:
+   Contrast of space/ form:
+   Spatial tension
+</li>
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+
 ### 28 sept
 !Checkout vragen!
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
