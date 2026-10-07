@@ -5,6 +5,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 okt
+!Checkout vragen!
+1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+   - Als ontwerper is het goed om een grid toe te passen, omdat het overzicht brengt en je makkelijk dingen op een bepaalde plek kunt
+     zetten.
+   - Als bezoeker is het goed omdat het samenhang aan de website geeft, het is fijn om naar te kijken en het is makkelijker te navigeren.
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+   1. Hierarchy
+   2. Coherentie
+   3. Contrast
+3. Hoeveel gekkigheid moet er in je werk zitten?
+   Er moet genoeg gekkigheid in zitten zodat het werk eruit springt en niet "saai" wordt, maar er moet niet zoveel gekkigheid in zitten dat
+   het onduidelijk wordt waar je nou eigenlijk naar kijkt.
+
+
 ### 5 okt
 !Checkout vragen!
 1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent,
